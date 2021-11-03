@@ -1,2 +1,2 @@
 # AFEC2021_How-to-Git
-blablabla
+project without password can pull and push?
